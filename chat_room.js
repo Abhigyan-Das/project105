@@ -20,7 +20,7 @@ function addroom() {
    
    localStorage.setItem("room_name",room_name);
  
-   window.location = "kwitter_room.html";
+   window.location = "kwitter_page.html";
  
  }
  
